@@ -1,14 +1,23 @@
 Hi there, I'm Pranay  👋
 About Me
 I'm a Computer Science student passionate about creating engaging and user-friendly web experiences. With a strong foundation in frontend development, I'm constantly exploring new technologies and pushing the boundaries of what's possible on the web.
+
+
+
 🚀 Skills
+
+
 Languages: HTML, CSS, JavaScript
 Frontend Frameworks: React
 UI Libraries: Material-UI, Bootstrap, Tailwind CSS
 State Management: Redux, Vuex
 Build Tools: Webpack, Babel
 Version Control: Git, GitHub
+
+
 🌱 Currently Learning
+
+
 Next.js for server-side rendering
 MongoDb for efficient database
 Flask for backend development
