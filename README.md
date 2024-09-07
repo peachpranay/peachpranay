@@ -1,16 +1,22 @@
-## Hi there 👋
+Hi there, I'm Pranay  👋
+About Me
+I'm a Computer Science student passionate about creating engaging and user-friendly web experiences. With a strong foundation in frontend development, I'm constantly exploring new technologies and pushing the boundaries of what's possible on the web.
+🚀 Skills
+Languages: HTML, CSS, JavaScript
+Frontend Frameworks: React
+UI Libraries: Material-UI, Bootstrap, Tailwind CSS
+State Management: Redux, Vuex
+Build Tools: Webpack, Babel
+Version Control: Git, GitHub
+🌱 Currently Learning
+Next.js for server-side rendering
+MongoDb for efficient database
+Flask for backend development
+RESTful API design
 
-<!--
-**peachpranay/peachpranay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📫 How to reach me
+LinkedIn: https://www.linkedin.com/in/pranay-rajvanshi/
+Email: pranay.rajvanshi@gmail.com
+Portfolio:( work in progress)
+💬 Let's Connect
+I'm always open to interesting conversations and collaboration opportunities. Feel free to reach out if you want to discuss web development, share ideas, or just chat about the latest tech trends! ⭐️ From yourusername
