@@ -38,4 +38,4 @@ Portfolio:( work in progress)
 💬 Let's Connect
 
 
-I'm always open to interesting conversations and collaboration opportunities. Feel free to reach out if you want to discuss web development, share ideas, or just chat about the latest tech trends! ⭐️ From yourusername
+I'm always open to interesting conversations and collaboration opportunities. Feel free to reach out if you want to discuss web development, share ideas, or just chat about the latest tech trends! ⭐️ 
