@@ -1,4 +1,7 @@
-
+<div align="center"> 
+ 
+<img alt="Coder GIF" height=250 width=350 src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" />
+</div>
 <h1 align="center">Hello <img width="30px" height="30px" src="GIF/Hi.gif">,I'm Pranay</h1>
 <p align="center">
 <samp>
@@ -8,7 +11,7 @@ a Computer Science student with a passion for crafting engaging and user-friendl
 
 
  
-  <div align=center>
+  <div align="center">
     <a href="https://github.com/peachpranay/github-readme-stats">
       <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=peachpranay&title_color=61dafb&hide=c%2B%2B&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
     </a>
