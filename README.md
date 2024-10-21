@@ -1,5 +1,5 @@
 
-<h1 align="center">Hello <img width="30px" height="30px" src="https://github.com/KKVANONYMOUS/kkvanonymous/blob/master/gifs/Hi.gif">,I'm Pranay</h1>
+<h1 align="center">Hello <img width="30px" height="30px" src="../peachpranay/GIF/Hi.gif">,I'm Pranay</h1>
 <p align="center">
 <samp>
 a Computer Science student with a passion for crafting engaging and user-friendly web experiences. With a strong foundation in frontend development, I'm always exploring new technologies and pushing the boundaries of what can be achieved on the web. Beyond coding  💻, I’m deeply interested in, application development, and innovative web solutions. Outside of tech, I’m passionate about finance 
