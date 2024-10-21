@@ -41,14 +41,20 @@ a Computer Science student with a passion for crafting engaging and user-friendl
 <code><img height="50" src="https://scikit-learn.org/stable/_static/scikit-learn-logo-small.png" alt="Scikit-learn"></code>
 
 
-
 <div align="center">
-    <h2>📫 How to reach me</h2>
-    <ul>
-        <li>LinkedIn: <a href="https://www.linkedin.com/in/pranay-rajvanshi/" target="_blank">Pranay Rajvanshi</a></li>
-        <li>Email: <a href="mailto:pranay.rajvanshi@gmail.com">pranay.rajvanshi@gmail.com</a></li>
-        <li>Portfolio: (work in progress)</li>
-    </ul>
+ 
+</p><br>
+<h1 align="center">✨ Reach Me At ✨</h1>
+<p align="center">
+<br>
+
+<a href="https://www.linkedin.com/in/pranay-rajvanshi/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
+<a href="mailto:pranay.rajvanshi@gmail.com?subject=Hello%20Kunal"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>&nbsp;
+<a href="https://x.com/peachpranay">  <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=X&logoColor=white&labelWidth=500" alt="X" />
+</a>&nbsp;
+
+</p>
+
 </div>
 
 <div align="center">
